@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <canvashack>
     <name>Full-Size Assignments</name>
-    <id>stmarks-branding</id>
-    <abstract>Show assignments in a full-height pane, rather than a squinched-up, itty-butty view</abstract>
+    <id>full-size-assignments</id>
+    <abstract>Show assignments in a full-height pane, rather than a squinched-up, itty-bitty view</abstract>
     <authors>
         <author>
             <name>Seth Battis</name>
