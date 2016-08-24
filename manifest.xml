@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<canvashack>
+    <name>Full-Size Assignments</name>
+    <id>stmarks-branding</id>
+    <abstract>Show assignments in a full-height pane, rather than a squinched-up, itty-butty view</abstract>
+    <authors>
+        <author>
+            <name>Seth Battis</name>
+            <email>SethBattis@stmarksschool.org</email>
+        </author>
+    </authors>
+    <components>
+        <css>full-size-assignments.css</css>
+        <canvas>
+            <pages>
+                <include>
+                    <page>
+                        <type>regex</type>
+                        <pattern>%/assignments/%</pattern>
+                    </page>
+                </include>
+            </pages>
+        </canvas>
+    </components>
+</canvashack>

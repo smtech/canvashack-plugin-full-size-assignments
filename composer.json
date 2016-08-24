@@ -1,0 +1,13 @@
+{
+    "name": "canvashack/plugin-full-size-assignments",
+    "description": "Show assignments in a full-height pane, rather than a squinched-up, itty-butty view",
+    "type": "canvashack-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Seth Battis",
+            "email": "sethbattis@stmarksschool.org"
+        }
+    ],
+    "require": {}
+}
